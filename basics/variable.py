@@ -7,6 +7,6 @@ f = False # boolean
 
 print(x, y, z, m, b, f)
 
-m = 12 # this will override the previous value of m 
+m = 12 # this will override the previous value of m
 
 print(m)
