@@ -9,4 +9,5 @@ It's a comment
 print('''Good
 Boy
     Girl''')
+# We can use triple quotation for printing multiline as it is.
 print(12)
