@@ -85,6 +85,13 @@ We encourage contributions to this repository. If you come across any issues or 
             <br />
             <sub><b>Somnath Sengupta</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sudiptamazumdar">
+            <img src="https://avatars.githubusercontent.com/u/139207924?v=4" width="100;" alt="sudiptamazumdar"/>
+            <br />
+            <sub><b>Sudipta Mazumdar</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
