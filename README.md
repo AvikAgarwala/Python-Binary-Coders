@@ -69,25 +69,25 @@ We encourage contributions to this repository. If you come across any issues or 
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/SomnathSengupta">
+            <img src="https://avatars.githubusercontent.com/u/136365858?v=4" width="100;" alt="SomnathSengupta"/>
+            <br />
+            <sub><b>Somnath Sengupta</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Arundhuti2004">
             <img src="https://avatars.githubusercontent.com/u/121664607?v=4" width="100;" alt="Arundhuti2004"/>
             <br />
             <sub><b>ARUNDHUTI SARKAR</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Priyam123dutta">
             <img src="https://avatars.githubusercontent.com/u/113710032?v=4" width="100;" alt="Priyam123dutta"/>
             <br />
             <sub><b>Priyam Dutta</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/SomnathSengupta">
-            <img src="https://avatars.githubusercontent.com/u/136365858?v=4" width="100;" alt="SomnathSengupta"/>
-            <br />
-            <sub><b>Somnath Sengupta</b></sub>
         </a>
     </td>
     <td align="center">
