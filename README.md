@@ -1,5 +1,5 @@
 ---
-
+<!-- banner image -->
 <div align="center">
     <img src="images/python.jpg" height="250rem" alt="banner image">
 </div>
