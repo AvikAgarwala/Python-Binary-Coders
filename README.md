@@ -55,6 +55,13 @@ We encourage contributions to this repository. If you come across any issues or 
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/SomnathSengupta">
+            <img src="https://avatars.githubusercontent.com/u/136365858?v=4" width="100;" alt="SomnathSengupta"/>
+            <br />
+            <sub><b>Somnath Sengupta</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Arghadeeps07">
             <img src="https://avatars.githubusercontent.com/u/112500013?v=4" width="100;" alt="Arghadeeps07"/>
             <br />
@@ -66,13 +73,6 @@ We encourage contributions to this repository. If you come across any issues or 
             <img src="https://avatars.githubusercontent.com/u/136338690?v=4" width="100;" alt="SohomGhosh10"/>
             <br />
             <sub><b>Sohom Ghosh</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/SomnathSengupta">
-            <img src="https://avatars.githubusercontent.com/u/136365858?v=4" width="100;" alt="SomnathSengupta"/>
-            <br />
-            <sub><b>Somnath Sengupta</b></sub>
         </a>
     </td>
     <td align="center">
