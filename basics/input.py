@@ -1,7 +1,7 @@
 # print("Enter a number:")
 # x = input()
 # x = int(x)
-x = int(input("Enter a number:")) # taking input and typecasting to int as by default the input function takes input in the form of STRING
+x = int(input("Enter a number:")) # taking input and typecasting to int
 
-print(type(x)) # int
-print(x + 2)
+print(type(x)) # class int
+print(x + 2) # adding by 2
