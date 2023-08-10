@@ -101,3 +101,9 @@ We encourage contributions to this repository. If you come across any issues or 
 <!-- readme: contributors -end -->
 
 ---
+
+<div align="center">
+    <img src="images/feedback.png" alt="banner image">
+</div>
+
+---
