@@ -35,8 +35,6 @@ We encourage contributions to this repository. If you come across any issues or 
     </td></tr>
 </table>
 
----
-
 ### Contributors
 
 <!-- readme: contributors -start -->
